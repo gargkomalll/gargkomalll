@@ -11,7 +11,9 @@ I'm a 3rd-year Computer Science Engineering student at Chitkara University, spec
 I like solving problems, building small things that work, and slowly figuring out what kind of developer I want to be.
 
 - 🌱 Learning: AI/ML, DSA
-- 💬 Ask me about: Python, Java, or anything DSA-related
+- 🧩 My idea of a good evening: one tricky DSA problem, zero distractions
+- ☕ Fueled by coffee and stubbornness when a bug won't fix itself
+- 🎯 Long-term goal: land a role where I get to keep learning on the job
 - 📫 Reach me: komalgarg0020@gmail.com
 
 ---
